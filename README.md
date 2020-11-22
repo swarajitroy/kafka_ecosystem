@@ -123,6 +123,20 @@ Creating control-center  ... done
 Creating ksqldb-cli      ... done
 Creating ksql-datagen    ... done
 
+
+Swarajits-MacBook-Air:cp-all-in-one swarajitroy$ docker-compose ps
+     Name                    Command               State                       Ports
+---------------------------------------------------------------------------------------------------------
+broker            /etc/confluent/docker/run        Up      0.0.0.0:9092->9092/tcp, 0.0.0.0:9101->9101/tcp
+connect           /etc/confluent/docker/run        Up      0.0.0.0:8083->8083/tcp, 9092/tcp
+control-center    /etc/confluent/docker/run        Up      0.0.0.0:9021->9021/tcp
+ksql-datagen      bash -c echo Waiting for K ...   Up
+ksqldb-cli        /bin/sh                          Up
+ksqldb-server     /etc/confluent/docker/run        Up      0.0.0.0:8088->8088/tcp
+rest-proxy        /etc/confluent/docker/run        Up      0.0.0.0:8082->8082/tcp
+schema-registry   /etc/confluent/docker/run        Up      0.0.0.0:8081->8081/tcp
+zookeeper         /etc/confluent/docker/run        Up      0.0.0.0:2181->2181/tcp, 2888/tcp, 3888/tcp
+
 ```
 
 ## 02. Understand Kafka Producers
