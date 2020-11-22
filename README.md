@@ -5,9 +5,9 @@
 ---
 
 * B. Development
+   * [07. Consumer Offset management]
    * [08. Consumer groups, partition assignments, partition rebalances](#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances)
 
-- https://github.com/swarajitroy/kafka_ecosystem/blob/main/README.md#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances
 
 | ID | Domain | Task
 | ----------- | ----------- | ------ |
