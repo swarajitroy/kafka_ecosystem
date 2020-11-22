@@ -4,6 +4,11 @@
 ## 00. Confluent Certified Developer for Apache Kafka
 ---
 
+* B. Development
+   * [08. Consumer groups, partition assignments, partition rebalances](#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances)
+
+- https://github.com/swarajitroy/kafka_ecosystem/blob/main/README.md#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances
+
 | ID | Domain | Task
 | ----------- | ----------- | ------ |
 | A.01 | Application design  | Kafka command line tools |
