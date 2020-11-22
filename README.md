@@ -1,6 +1,9 @@
 # kafka_ecosystem
 ---
 
+* https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/java.html#client-examples-java
+* https://www.confluent.io/learn/kafka-tutorial/
+
 ## 00. Confluent Certified Developer for Apache Kafka
 ---
 
