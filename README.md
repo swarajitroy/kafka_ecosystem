@@ -87,15 +87,16 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ---
 
 ### 03.B B.07 Development (Consumer Offset management)
+---
 
 
 ### 03.A B.08 Development (Consumer groups, partition assignments, partition rebalances)
 ---
 
-https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l
-https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l-1
-https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
-https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
+- https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l
+- https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l-1
+- https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
+- https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
 
 ## 04. Understand Kafka Schema Registries
 ---
