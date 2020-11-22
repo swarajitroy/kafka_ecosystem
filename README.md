@@ -86,6 +86,10 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ## 03. Understand Kafka Consumers 
 ---
 
+- B.08 Development (Consumer groups, partition assignments, partition rebalances)
+
+https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
+
 ## 04. Understand Kafka Schema Registries
 ---
 
