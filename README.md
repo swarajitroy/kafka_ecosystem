@@ -1,6 +1,35 @@
 # kafka_ecosystem
 ---
 
+## 00. Confluent Certified Developer for Apache Kafka
+---
+
+| ID | Domain | Task
+| ----------- | ----------- | ------ |
+| A.01 | Application design  | Kafka command line tools |
+| A.02 | Application design  | Pub Sub and Streaming |
+| A.03 | Application design  | Overall Apache Kafka architecture and design |
+| A.04 | Application design  | Apache Kafka APIs, configuration and metrics |
+| A.05 | Application design  | Message Metadata |
+| A.06 | Application design  | System Metrics |
+| A.07 | Application design  | Kafka Message Key selection (choices and factors) |
+| B.01 | Development         | Kafka Clients - Producer & Consumer, concepts and functions |
+| B.02 | Development         | Client Troubleshooting & Debugging|
+| B.03 | Development         | Performance, Throughput, Latency and Scaling |
+| B.04 | Development         | Message ordering and delivery guarantees |
+| B.05 | Development         | Serialization and Deserialization |
+| B.06 | Development         | Producer Partition selection |
+| B.07 | Development         | Consumer Offset management |
+| B.08 | Development         | Consumer groups, partition assignments, partition rebalances |
+| B.09 | Development         | Data retention strategies and implication |
+| B.10 | Development         | Topic Co-partitioning, Log compacted Topics |
+| C.01 | Deployment/Testing | Application deployment choices| 
+| C.02 | Deployment/Testing | Securing your data| 
+| C.03 | Deployment/Testing | Monitoring & troubeshooting clients|
+| C.04 | Deployment/Testing | client tuning |
+| C.05 | Deployment/Testing | Kafka Streams application |
+| C.06 | Deployment/Testing | KSQL and ksqlDB use cases |
+
 ## 01. Understanding Kafka technologies 
 ---
 
