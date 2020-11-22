@@ -5,7 +5,7 @@
 ---
 
 * B. Development
-   * [07. Consumer Offset management]
+   * [07. Consumer Offset management](#03b-b07-development-consumer-offset-management)
    * [08. Consumer groups, partition assignments, partition rebalances](#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances)
 
 
