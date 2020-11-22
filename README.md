@@ -141,3 +141,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 
 ## 06. Understand Kafka Streams
 ---
+
+
+- https://www.confluent.io/blog/secure-kafka-deployment-best-practices/
+- https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf
