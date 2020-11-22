@@ -33,6 +33,9 @@
 ## 01. Understanding Kafka technologies 
 ---
 
+https://kafka-tutorials.confluent.io/
+https://www.confluent.io/learn/kafka-tutorial/
+
 One of the best way to do it is via https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html or https://docs.confluent.io/platform/current/quickstart/cos-docker-quickstart.html - an all in one platform - which installs the following
 
 - Kafka Zookeeper
