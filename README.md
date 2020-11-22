@@ -94,6 +94,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ## 03. Understand Kafka Consumers 
 ---
 
+
 ### 03.A B.04 Development (Message ordering and delivery guarantees)
 ---
 
@@ -123,6 +124,14 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l-1
 - https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3
 - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2
+
+
+### 03.E B.10 Development (Topic Co-partitioning, Log compacted Topics)
+---
+
+- https://medium.com/xebia-france/kafka-streams-co-partitioning-requirements-illustrated-2033f686b19c
+- https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
+
 
 ## 04. Understand Kafka Schema Registries
 ---
