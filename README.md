@@ -94,6 +94,14 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ## 03. Understand Kafka Consumers 
 ---
 
+### 03.A B.04 Development (Message ordering and delivery guarantees)
+---
+
+- https://medium.com/@felipedutratine/kafka-ordering-guarantees-99320db8f87f
+- https://supergloo.com/kafka/kafka-architecture-delivery/
+- https://www.instaclustr.com/a-visual-understanding-to-ensuring-your-kafka-data-is-literally-in-order/
+
+
 ### 03.B B.06 Development (Producer Partition selection)
 ---
 
@@ -102,13 +110,13 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://www.logicbig.com/tutorials/misc/kafka/using-keys-for-partition-assignment.html
 - https://dzone.com/articles/kafka-producer-architecture-picking-the-partition#
 
-### 03.B B.07 Development (Consumer Offset management)
+### 03.C B.07 Development (Consumer Offset management)
 ---
 
 - https://docs.confluent.io/platform/current/clients/consumer.html
 
 
-### 03.A B.08 Development (Consumer groups, partition assignments, partition rebalances)
+### 03.D B.08 Development (Consumer groups, partition assignments, partition rebalances)
 ---
 
 - https://dzone.com/articles/understanding-kafka-consumer-groups-and-consumer-l
