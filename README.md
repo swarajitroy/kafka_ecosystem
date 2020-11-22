@@ -94,8 +94,18 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ## 03. Understand Kafka Consumers 
 ---
 
+### 03.B B.06 Development (Producer Partition selection)
+---
+
+- https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner/
+- https://blog.newrelic.com/engineering/effective-strategies-kafka-topic-partitioning/
+- https://www.logicbig.com/tutorials/misc/kafka/using-keys-for-partition-assignment.html
+- https://dzone.com/articles/kafka-producer-architecture-picking-the-partition#
+
 ### 03.B B.07 Development (Consumer Offset management)
 ---
+
+- https://docs.confluent.io/platform/current/clients/consumer.html
 
 
 ### 03.A B.08 Development (Consumer groups, partition assignments, partition rebalances)
