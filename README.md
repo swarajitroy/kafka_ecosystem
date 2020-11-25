@@ -10,7 +10,7 @@
 * B. Development
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
-   * [08. Consumer groups, partition assignments, partition rebalances](#03a-b08-development-consumer-groups-partition-assignments-partition-rebalances)
+   * [08. Consumer groups, partition assignments, partition rebalances](#03d-b08-development-consumer-groups-partition-assignments-partition-rebalances)
 
 
 | ID | Domain | Task
