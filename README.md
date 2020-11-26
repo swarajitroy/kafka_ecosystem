@@ -91,10 +91,10 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 
 ```
 
-## 02. Understand Kafka Producers
+## 02. Understand Kafka Security
 ---
 
-## 03. Understand Kafka Consumers 
+## 03. Understand Kafka Producers & Consumers 
 ---
 
 
