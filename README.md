@@ -4,6 +4,7 @@
 * https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/java.html#client-examples-java
 * https://www.confluent.io/learn/kafka-tutorial/
 
+
 ## 00. Confluent Certified Developer for Apache Kafka
 ---
 
@@ -46,8 +47,9 @@
 ## 01. Understanding Kafka technologies 
 ---
 
-https://kafka-tutorials.confluent.io/
-https://www.confluent.io/learn/kafka-tutorial/
+* https://kafka-tutorials.confluent.io/
+* https://www.confluent.io/learn/kafka-tutorial/
+* https://developer.confluent.io/#kafka-tutorials-and-examples
 
 One of the best way to do it is via https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html or https://docs.confluent.io/platform/current/quickstart/cos-docker-quickstart.html - an all in one platform - which installs the following
 
@@ -98,6 +100,11 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 
 ## 03. Understand Kafka Producers & Consumers 
 ---
+
+### 03.A B.02 Development (Kafka Clients - Producer & Consumer)
+---
+https://docs.confluent.io/platform/current/clients/consumer.html
+https://docs.confluent.io/platform/current/clients/producer.html
 
 
 ### 03.A B.04 Development (Message ordering and delivery guarantees)
