@@ -3,6 +3,8 @@
 
 * https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/java.html#client-examples-java
 * https://www.confluent.io/learn/kafka-tutorial/
+* http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html
+
 
 
 ## 00. Confluent Certified Developer for Apache Kafka
