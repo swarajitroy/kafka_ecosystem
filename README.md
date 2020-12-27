@@ -10,6 +10,7 @@
 * B. Development
    * [03. Performance, Throughput, Latency and Scaling](#03f-b03-development-performance-throughput-latency-and-scaling)
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
+   * [05. Serialization and Deserialization]
    * [06.Producer Partition Selection](#03b-b06-development-producer-partition-selection)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
    * [08. Consumer groups, partition assignments, partition rebalances](#03d-b08-development-consumer-groups-partition-assignments-partition-rebalances)
@@ -146,6 +147,12 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/
 - https://blog.newrelic.com/engineering/kafka-best-practices/
 - https://www.datadoghq.com/blog/kafka-at-datadog/
+
+### 03.G B.05 Development (Serialization and Deserialization)
+---
+
+- https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-avro.html
+
 
 ## 04. Understand Kafka Schema Registries
 ---
