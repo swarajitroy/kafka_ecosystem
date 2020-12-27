@@ -133,6 +133,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ### 03.E B.10 Development (Topic Co-partitioning, Log compacted Topics)
 ---
 
+- https://blog.newrelic.com/engineering/effective-strategies-kafka-topic-partitioning/
 - https://medium.com/xebia-france/kafka-streams-co-partitioning-requirements-illustrated-2033f686b19c
 - https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
