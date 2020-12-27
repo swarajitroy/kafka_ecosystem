@@ -16,6 +16,7 @@
    * [06.Producer Partition Selection](#03b-b06-development-producer-partition-selection)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
    * [08. Consumer groups, partition assignments, partition rebalances](#03d-b08-development-consumer-groups-partition-assignments-partition-rebalances)
+   * [09. Data retention strategies and implication](#03h-b09-development-data-retention-strategies-and-implication)
    * [10. Topic Co-partitioning](#03e-b10-development-topic-co-partitioning-log-compacted-topics)
 
 
