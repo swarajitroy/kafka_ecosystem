@@ -9,6 +9,7 @@
 ---
 
 * B. Development
+   * [01. Kafka Clients - Producer & Consumer, concepts and functions]
    * [03. Performance, Throughput, Latency and Scaling](#03f-b03-development-performance-throughput-latency-and-scaling)
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
    * [05. Serialization and Deserialization]
