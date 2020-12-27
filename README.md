@@ -9,7 +9,7 @@
 ---
 
 * B. Development
-   * [01. Kafka Clients - Producer & Consumer, concepts and functions]
+   * [01. Kafka Clients - Producer & Consumer, concepts and functions](#03a-b01-development-kafka-clients---producer--consumer)
    * [03. Performance, Throughput, Latency and Scaling](#03f-b03-development-performance-throughput-latency-and-scaling)
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
    * [05. Serialization and Deserialization]
@@ -102,7 +102,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ## 03. Understand Kafka Producers & Consumers 
 ---
 
-### 03.A B.02 Development (Kafka Clients - Producer & Consumer)
+### 03.A B.01 Development (Kafka Clients - Producer & Consumer)
 ---
 https://docs.confluent.io/platform/current/clients/consumer.html
 https://docs.confluent.io/platform/current/clients/producer.html
