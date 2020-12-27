@@ -136,6 +136,14 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://medium.com/xebia-france/kafka-streams-co-partitioning-requirements-illustrated-2033f686b19c
 - https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
+### 03.F B.13 Development (Performance, Throughput, Latency and Scaling)
+---
+
+- https://www.confluent.io/blog/kafka-fastest-messaging-system/
+- https://www.confluent.io/blog/configure-kafka-to-minimize-latency/
+- https://www.confluent.io/white-paper/optimizing-your-apache-kafka-deployment/
+- https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/
+- https://blog.newrelic.com/engineering/kafka-best-practices/
 
 ## 04. Understand Kafka Schema Registries
 ---
