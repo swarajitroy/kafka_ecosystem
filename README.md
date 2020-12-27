@@ -145,6 +145,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://www.confluent.io/white-paper/optimizing-your-apache-kafka-deployment/
 - https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/
 - https://blog.newrelic.com/engineering/kafka-best-practices/
+- https://www.datadoghq.com/blog/kafka-at-datadog/
 
 ## 04. Understand Kafka Schema Registries
 ---
