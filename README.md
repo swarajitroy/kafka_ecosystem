@@ -8,7 +8,7 @@
 ---
 
 * B. Development
-   * [03. Performance, Throughput, Latency and Scaling](#03f-b13-development-performance-throughput-latency-and-scaling)
+   * [03. Performance, Throughput, Latency and Scaling](#03f-b03-development-performance-throughput-latency-and-scaling)
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
    * [06.Producer Partition Selection](#03b-b06-development-producer-partition-selection)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
@@ -137,7 +137,7 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 - https://medium.com/xebia-france/kafka-streams-co-partitioning-requirements-illustrated-2033f686b19c
 - https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7
 
-### 03.F B.13 Development (Performance, Throughput, Latency and Scaling)
+### 03.F B.03 Development (Performance, Throughput, Latency and Scaling)
 ---
 
 - https://www.confluent.io/blog/kafka-fastest-messaging-system/
