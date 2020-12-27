@@ -51,6 +51,7 @@
 * https://kafka-tutorials.confluent.io/
 * https://www.confluent.io/learn/kafka-tutorial/
 * https://developer.confluent.io/#kafka-tutorials-and-examples
+* https://docs.confluent.io/platform/current/installation/configuration/
 
 One of the best way to do it is via https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html or https://docs.confluent.io/platform/current/quickstart/cos-docker-quickstart.html - an all in one platform - which installs the following
 
@@ -160,6 +161,11 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 ---
 
 - https://docs.confluent.io/platform/current/schema-registry/serdes-develop/serdes-avro.html
+
+### 03.H B.09 Development (Data retention strategies and implication)
+---
+
+- https://medium.com/@sunny_81705/kafka-log-retention-and-cleanup-policies-c8d9cb7e09f8
 
 
 ## 04. Understand Kafka Schema Registries
