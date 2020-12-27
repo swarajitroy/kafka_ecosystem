@@ -8,6 +8,7 @@
 ---
 
 * B. Development
+   * [03. Performance, Throughput, Latency and Scaling]
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
    * [06.Producer Partition Selection](#03b-b06-development-producer-partition-selection)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
