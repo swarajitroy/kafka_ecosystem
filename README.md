@@ -12,7 +12,7 @@
    * [01. Kafka Clients - Producer & Consumer, concepts and functions](#03a-b01-development-kafka-clients---producer--consumer)
    * [03. Performance, Throughput, Latency and Scaling](#03f-b03-development-performance-throughput-latency-and-scaling)
    * [04. Message ordering and delivery guarantees](#03a-b04-development-message-ordering-and-delivery-guarantees)
-   * [05. Serialization and Deserialization]
+   * [05. Serialization and Deserialization](#03g-b05-development-serialization-and-deserialization)
    * [06.Producer Partition Selection](#03b-b06-development-producer-partition-selection)
    * [07. Consumer Offset management](#03c-b07-development-consumer-offset-management)
    * [08. Consumer groups, partition assignments, partition rebalances](#03d-b08-development-consumer-groups-partition-assignments-partition-rebalances)
@@ -104,8 +104,8 @@ zookeeper         /etc/confluent/docker/run        Up             0.0.0.0:2181->
 
 ### 03.A B.01 Development (Kafka Clients - Producer & Consumer)
 ---
-https://docs.confluent.io/platform/current/clients/consumer.html
-https://docs.confluent.io/platform/current/clients/producer.html
+- https://docs.confluent.io/platform/current/clients/consumer.html
+- https://docs.confluent.io/platform/current/clients/producer.html
 
 
 ### 03.A B.04 Development (Message ordering and delivery guarantees)
